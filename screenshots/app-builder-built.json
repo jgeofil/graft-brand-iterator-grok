@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Graft",
+      "hasCanvas": false,
+      "bodyTextLen": 3605,
+      "bodyTextHash": "d2c70f277d5135a391d3c7f1aa96700bceae6a789ff5b58bda4b7dadaaf1caa0",
+      "bodyTextPrefix": "Graft Branch a brand until it holds. New brand BRANDS Keel Sampl",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Graft",
+      "hasCanvas": false,
+      "bodyTextLen": 649,
+      "bodyTextHash": "2f37af2759a5784e1977ee47394bdb8030557a0b4047fa7ae474de8078c5e001",
+      "bodyTextPrefix": "Graft New brand Brand Keel Board System Chartroom Night Watch ST",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
